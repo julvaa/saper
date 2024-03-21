@@ -1,3 +1,0 @@
-C:/Users/Kot/CLionProjects/SAPER/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
-C:/Users/Kot/CLionProjects/SAPER/cmake-build-debug-mingw/CMakeFiles/SAPER.dir
-C:/Users/Kot/CLionProjects/SAPER/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
